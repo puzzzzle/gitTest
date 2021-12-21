@@ -15,5 +15,6 @@ public class GitTest {
         System.out.println("hot-fix testMergeConflict");
         System.out.println("master push Commit");
         System.out.println("pull test");
+        System.out.println("github 代码更新，码云测试同步");
     }
 }
