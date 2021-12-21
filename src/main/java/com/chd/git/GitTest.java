@@ -13,6 +13,7 @@ public class GitTest {
         System.out.println("hello git4!!!");
         System.out.println("master testMergeConflict");
         System.out.println("hot-fix testMergeConflict");
+        System.out.println("master push Commit");
 
     }
 }
